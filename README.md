@@ -7,6 +7,5 @@
 - [LeetCode 279 完全平方数](https://github.com/qunzi0214/blog/issues/4)
 - [LeetCode 494 目标和](https://github.com/qunzi0214/blog/issues/5)
 
-### 工具
+### 看书笔记
 
-- [VScode Settings Sync 配置](https://github.com/qunzi0214/blog/issues/6)
