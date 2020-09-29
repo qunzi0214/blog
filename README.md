@@ -9,4 +9,4 @@
 
 ### 看书笔记
 
-- [《你不知道的javascript（上）》](https://github.com/qunzi0214/blog/issues/7)
+- [《你不知道的javascript（上）》](https://github.com/qunzi0214/blog/issues/9)
