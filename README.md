@@ -1,6 +1,6 @@
 # Rango的博客
 
-## 烂笔头
+## 随笔
 
 - [把时间花在更有意义的问题上：记录eslint开箱即用的规范和vscode配置](https://github.com/qunzi0214/blog/issues/23)
 
