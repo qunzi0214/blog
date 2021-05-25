@@ -14,6 +14,7 @@
 
 ## 看书笔记
 
-- [《你不知道的javascript（上）》](https://github.com/qunzi0214/blog/issues/9)
+- [再啃Typescript文档（4.2英文版）](https://github.com/qunzi0214/blog/issues/35)
 - [《你不知道的javascript（中）》](https://github.com/qunzi0214/blog/issues/24)
 - [《鸟哥的Linux私房菜（基础篇）》](https://github.com/qunzi0214/blog/issues/14)
+- [《你不知道的javascript（上）》](https://github.com/qunzi0214/blog/issues/9)
